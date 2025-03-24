@@ -25,6 +25,20 @@ VALUES
 ('Jorinde', 230, 6),
 ('Hagazussa', 145, 6);
 
+INSERT INTO track (track_title, track_length, album_id)
+VALUES
+('my own', 150, 4),
+('own my', 123, 3),
+('my', 210, 1),
+('oh my god', 201, 2),
+('myself', 240, 3),
+('by myself', 210, 4),
+('bemy self', 100, 6),
+('myself by', 240, 4),
+('by myself by', 120, 5),
+('beemy', 100, 2),
+('premyne', 159, 2);
+
 INSERT INTO collection (collection_title, collection_year)
 VALUES
 ('Rock hits', 2019),
