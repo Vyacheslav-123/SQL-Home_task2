@@ -53,6 +53,10 @@ VALUES
 (3, 5),
 (4, 6);
 
+INSERT INTO album_musician (musician_id, album_id)
+VALUES
+(1, 7);
+
 INSERT INTO collection_track (collection_id, track_id)
 VALUES
 (1, 1), (1, 2), (1, 4),
